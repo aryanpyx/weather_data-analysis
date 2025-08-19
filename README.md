@@ -51,7 +51,7 @@ Using **Python, Pandas, and YData Profiling**, an **exploratory data analysis (E
 
 ## 📸 Example Output
 https://github.com/aryanpyx/weather_data-analysis/blob/8c20f5a37b022bef793ba6d9b2627bd01290178d/example%20image%201.png
-
+ https://github.com/aryanpyx/weather_data-analysis/blob/1fb5f12a17ac01121adaf8552004bbc8819b9b83/example%20image%202.png
 
 ---
 
